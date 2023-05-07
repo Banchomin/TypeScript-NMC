@@ -1,8 +1,2 @@
-class Block {
-    constructor(data) {
-        this.data = data;
-    }
-    static hello() {
-        return "h1";
-    }
-}
+"use strict";
+console.log("hi");
